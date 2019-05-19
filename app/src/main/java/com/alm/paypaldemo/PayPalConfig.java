@@ -5,5 +5,5 @@ package com.alm.paypaldemo;
  */
 
 public class PayPalConfig {
-    public static final String PAYPAL_CLIENT_ID = "AfibM2aQVoui3xflLEWXFLhPZPjZdTiEdRvgEludZtEqzJopzAor9sqHZv21KnCIFGEdlf1jIXjCdjaC";
+    public static final String PAYPAL_CLIENT_ID = "demo_client_id";
 }
